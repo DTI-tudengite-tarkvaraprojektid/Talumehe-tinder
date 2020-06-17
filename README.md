@@ -4,4 +4,5 @@ Projekt on loodud Tallinna Ülikooli Digitehnoloogiate instituudi Tarkvaraarendu
 Praktika sooritamiseks oli kasutusele võetud veebiarendusplatvorm Wix.
 Projekti panustasid: Aleksandr Rõbakov, Märten Treimann, Jan Morten Kivi, Kenet Paurmann, Klaus Erik Kruus.
 
-Litsens: MIT License
+##Litsens
+[MIT License](https://choosealicense.com/licenses/mit/)
