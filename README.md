@@ -3,4 +3,4 @@ Projekti eesmärgiks oli luua veebipood, kuhu saaksid talunikud enda tooteid mü
 Projekt on loodud Tallinna Ülikooli Digitehnoloogiate instituudi Tarkvaraarenduse projekti kursuse raames.
 Praktika sooritamiseks oli kasutusele võetud veebiarendusplatvorm Wix.
 Projekti panustasid: Aleksandr Rõbakov, Märten Treimann, Jan Morten Kivi, Kenet Paurmann, Klaus Erik Kruus.
-
+Litsens: MIT License
